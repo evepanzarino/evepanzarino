@@ -11,7 +11,7 @@ Hi, I’m @evepanzarino. I go to Full Sail University in Web Development.
 - Twitch: https://twitch.tv/eveprograms
 
 # Personal Accounts
-- - - - - - - - -
+- + -
 # Main Socials:
 - Instagram: https://instagram.com/eveldapanzarino
 - Youtube: https://youtube.com/@evepanzarino
