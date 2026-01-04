@@ -1,21 +1,21 @@
 Hi, I’m @evepanzarino
 
-Programming: Socials:
-Instagram: https://instagram.com/eveprograms
-Youtube: https://youtube.com/@eveprograms
-Bluesky: https://bsky.app/profile/eveprograms.bsky.social
-Twitch: https://twitch.tv/eveprograms
++ Programming: Socials:
+- Instagram: https://instagram.com/eveprograms
+- Youtube: https://youtube.com/@eveprograms
+- Bluesky: https://bsky.app/profile/eveprograms.bsky.social
+- Twitch: https://twitch.tv/eveprograms
 
-Main Socials:
-Instagram: https://instagram.com/eveldapanzarino
-Youtube: https://youtube.com/@evepanzarino
-Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
-Twitch: https://twitch.tv/evepanzarino
++ Main Socials:
+- Instagram: https://instagram.com/eveldapanzarino
+- Youtube: https://youtube.com/@evepanzarino
+- Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
+- Twitch: https://twitch.tv/evepanzarino
 
-Philosophy Socials:
-Instagram: https://instagram.com/evephilosophy
-Youtube: https://youtube.com/@evephilosophy
-Bluesky: https://bsky.app/profile/evephilosophy.bsky.social
++ Philosophy Socials:
+- Instagram: https://instagram.com/evephilosophy
+- Youtube: https://youtube.com/@evephilosophy
+- Bluesky: https://bsky.app/profile/evephilosophy.bsky.social
 
 <!---
 evepanzarino/evepanzarino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
