@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @evepanzarino
-- 👀 I’m interested in programming, reading,and philosophy.
-- 🌱 I’m currently learning how to create things in the world
-- 💞️ I’m looking to collaborate on creating a pathology system
-- 📫 How to reach me eve@wonderpathology.com
+Hi, I’m @evepanzarino
+
+Programming: Socials:
+Instagram: https://instagram.com/eveprograms
+Youtube: https://youtube.com/@eveprograms
+Bluesky: https://bsky.app/profile/eveprograms.bsky.social
+Twitch: https://twitch.tv/eveprograms
+
+Main Socials:
+Instagram: https://instagram.com/eveldapanzarino
+Youtube: https://youtube.com/@evepanzarino
+Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
+Twitch: https://twitch.tv/evepanzarino
+
+Philosophy Socials:
+Instagram: https://instagram.com/evephilosophy
+Youtube: https://youtube.com/@evephilosophy
+Bluesky: https://bsky.app/profile/evephilosophy.bsky.social
 
 <!---
 evepanzarino/evepanzarino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
