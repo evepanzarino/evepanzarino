@@ -1,7 +1,7 @@
 Hi, I’m @evepanzarino. I go to Full Sail University in Web Development.
 
 # Dev Blog
-+ + +
+* * *
 # Programming: Socials:
 
 *Github: https://github.com/eveprograms
