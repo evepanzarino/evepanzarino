@@ -10,7 +10,7 @@ Hi, I’m @evepanzarino. I go to Full Sail University in Web Development.
 - Bluesky: https://bsky.app/profile/eveprograms.bsky.social
 - Twitch: https://twitch.tv/eveprograms
 
-#Personal Accounts
+# Personal Accounts
 - - - - - - - - -
 # Main Socials:
 - Instagram: https://instagram.com/eveldapanzarino
