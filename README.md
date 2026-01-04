@@ -2,7 +2,7 @@ Hi, I’m @evepanzarino. I go to Full Sail University in Web Development.
 
 # Dev Blog
 * * *
-# # Programming: Socials:
+## Programming: Socials:
 
 *Github: https://github.com/eveprograms
 - Instagram: https://instagram.com/eveprograms
@@ -12,13 +12,13 @@ Hi, I’m @evepanzarino. I go to Full Sail University in Web Development.
 
 # Personal Accounts
 - - -
-# # Main Socials:
+## Main Socials:
 - Instagram: https://instagram.com/eveldapanzarino
 - Youtube: https://youtube.com/@evepanzarino
 - Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
 - Twitch: https://twitch.tv/evepanzarino
 
-# # Philosophy Socials:
+## Philosophy Socials:
 + Thoughtful Writing
 - Instagram: https://instagram.com/evephilosophy
 - Youtube: https://youtube.com/@evephilosophy
