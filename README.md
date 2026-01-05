@@ -2,11 +2,10 @@ I’m @evepanzarino. I go to Full Sail University in Web Development.
 
 # Dev Blog
 * * *
-* Tumblr Blog: https://eveprograms.tumblr.com
+- Tumblr Blog: https://eveprograms.tumblr.com
+-  Github: https://github.com/eveprograms
 
 ## Programming: Socials:
-
-* Github: https://github.com/eveprograms
 - Instagram: https://instagram.com/eveprograms
 - Youtube: https://youtube.com/@eveprograms
 - Bluesky: https://bsky.app/profile/eveprograms.bsky.social
