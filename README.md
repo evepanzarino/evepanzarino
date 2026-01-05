@@ -13,6 +13,7 @@ I’m @evepanzarino. I go to Full Sail University in Web Development.
 # Personal Accounts
 - - -
 ## Main Socials:
+- Facebook: https://facebook.com/eveldapanzarino
 - Instagram: https://instagram.com/eveldapanzarino
 - Youtube: https://youtube.com/@evepanzarino
 - Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
@@ -23,8 +24,6 @@ I’m @evepanzarino. I go to Full Sail University in Web Development.
 - Memorial: https://instagram.com/keepingitrealbymakingitteal
 - Tumblr Blog: https://keepingitrealbymakingitteal.tumblr.com
 - Personal (KRMT): https://instagram.com/evekeepsitrealbymakingitteal
-
-
 
 ## Philosophy Socials:
 + Thoughtful Writing
