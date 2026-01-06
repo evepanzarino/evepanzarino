@@ -7,16 +7,16 @@ I go to Full Sail University in Web Development.
 - Github: https://github.com/eve-programs
 
 # Personal Projects:
+<div style="display: flex; width: 100%;">
+   <div style="flex: 1;">
+      <h1>PixelGrid</h1>
+   </div>
+   <div style="flex: 1;">
+      <h1>November, 2025 to Present</h1>
+   </div>
+</div>
 <table>
-<tr>
-<td>
-   <h1 style="all:  unset; font-size: 2em; font-weight: bold; display: block;">PixelGrid</h1>
-</td>
-    <td>
-       <h1 style="all: unset; font-size: 2em; font-weight: bold; display: block;">November, 2025 to Present</h1>
-    </td>
-  </tr>
-   <tr>
+
     <th colspan="2"><a href="https://github.com/eveprograms/PixelGrid">Check out My Progress!</a></th> <!-- This cell spans 2 columns -->
   </tr>
   <tr>
