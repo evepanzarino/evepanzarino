@@ -26,10 +26,10 @@ I go to Full Sail University in Web Development.
       <p>PixelGrid is a React Web App that uses html grids written in JSX </p>
       
 **Frontend (Client):**
-- React 18.2.0:  Latest stable version using functional components and hooks
-- Deployed to GitHub Pages - <a href="evepanzarino.github.io/pixelgrid">PixelGrid App</a>
-- GitHub Pages for frontend hosting
+- **React 18.2.0** with the Latest Stable Version
+- Deployed to **GitHub Pages** for front-end hosting - <a href="evepanzarino.github.io/pixelgrid">PixelGrid App</a>
 
+<p>**The PixelGrid App does not use the database function. It's purpose is for future back-end integrations.**</p>
 **Backend (Server):**
 - **Node.js** with **Express.js 4.18.2** - REST API server
 - **MySQL2 3.6.0** - MySQL database driver
@@ -38,7 +38,7 @@ I go to Full Sail University in Web Development.
 - **MySQL 8.0** - Relational database
 - This is a **MERN-style stack** (MySQL instead of MongoDB) using:
 
-**The PixelGrid App does not use the database function. It's purpose is for future back-end integrations.**
+
 
     </td>
   </tr>
