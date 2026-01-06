@@ -7,13 +7,13 @@ I go to Full Sail University in Web Development.
 - Github: https://github.com/eve-programs
 
 # Personal Projects:
-<table>
+<table padding="0">
   <tr>
 <td>
-   <h2>PixelGrid</h2>
+   <h1>PixelGrid</h1>
 </td>
     <td>
-       <h2>November, 2025 to Present</h2>
+       <h1>November, 2025 to Present</h1>
     </td>
   </tr>
    <tr>
