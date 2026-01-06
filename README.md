@@ -25,7 +25,7 @@ I go to Full Sail University in Web Development.
       
 **Frontend (Client):**
 - **React 18.2.0** with the Latest Stable Version
-- Deployed to **GitHub Pages** for **Front-end Hosting
+- Deployed to **GitHub Pages** for **Front-end Hosting**
 
 **The PixelGrid App does not use a database on Github Pages. **
 **Backend (Server) & Database:**
