@@ -5,7 +5,7 @@ I go to Full Sail University in Web Development.
 # Personal Projects:
 ## PixelGrid 
 ### November, 2025 - Present
-<div style="grid-template-collumns: 50% 50%;">
+<div style="display: grid; grid-template-collumns: 50% 50%;">
 <div align="left" width="50%">
 <h1>
   PixelGrid
