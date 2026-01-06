@@ -48,7 +48,12 @@ I go to Full Sail University in Web Development.
 
     </td>
   </tr>
+  <tr>
+    <th colspan="2"><a href="https://github.com/eveprograms/PixelGrid"> Check out My Progress! </a></th> <!-- This cell spans 2 columns -->
+    <th>Age</th>
+  </tr>
 </table>
+
 
 </br>
 
