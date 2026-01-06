@@ -33,7 +33,6 @@ I go to Full Sail University in Web Development.
 - **Node.js** with **Express.js 4.18.2** - REST API server
 - **MySQL2 3.6.0** - MySQL database driver
 - **MySQL 8.0** - Relational database
-- This is a **MERN-style stack** (MySQL instead of MongoDB) using:
 
 
 
