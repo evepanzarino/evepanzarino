@@ -29,6 +29,7 @@ I go to Full Sail University in Web Development.
 <a href="evepanzarino.github.io/pixelgrid">PixelGrid App</a>
 
 **The PixelGrid App does not use the database function. It's purpose is for future back-end integrations.**
+
 **Backend (Server):**
 - **Node.js** with **Express.js 4.18.2** - REST API server
 - **MySQL2 3.6.0** - MySQL database driver
