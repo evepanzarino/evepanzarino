@@ -4,7 +4,7 @@ I go to Full Sail University in Web Development.
 </br>
 
 ## Live Projects
-- Github: https://github.com/eve-programs
+Github: https://github.com/eve-programs
 
 
 # Blogs & Socials
@@ -18,7 +18,7 @@ Tumblr Blog: https://eveprograms.tumblr.com
 - Twitch: https://twitch.tv/eveprograms
 
 ## Personal Blog
-- https://evepanzarino.tumblr.com
+https://evepanzarino.tumblr.com
 
 ### Main Socials  
 #### Eve Panzarino - Web Design & Development:
