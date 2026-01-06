@@ -70,11 +70,11 @@ Tumblr Blog: https://evepanzarino.tumblr.com
 - **MySQL2 3.6.0** - MySQL database driver
 - **MySQL 8.0** - Relational database
 
-**PixelGrid Github:** <a href="https://github.com/eveprograms/PixelGrid"> **Live Project** </a>
+**PixelGrid Github:** <a href="https://github.com/eveprograms/PixelGrid"> **@eveprograms** </a>
     </td>
   </tr>
  <th colspan="2">
-  <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress! </a>
+  <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress on the Live App! </a>
 </th>
 </table>
 
