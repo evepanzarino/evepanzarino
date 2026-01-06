@@ -25,8 +25,8 @@ I go to Full Sail University in Web Development.
       <h2>November, 2025 to Present</h2>
       <p>PixelGrid is a React Web App that uses html grids written in JSX </p>
 **Frontend (Client):**
-- ** React 18.2.0: **  Latest stable version using functional components and hooks
-- Deployed to ** GitHub Pages ** (evepanzarino.github.io/pixelgrid)
+- React 18.2.0:  Latest stable version using functional components and hooks
+- Deployed to GitHub Pages - <a href="evepanzarino.github.io/pixelgrid">PixelGrid App</a>
 - GitHub Pages for frontend hosting
 
 **Backend (Server):**
