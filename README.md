@@ -6,6 +6,17 @@ I go to Full Sail University in Web Development.
 ## Live Projects
 - Github: https://github.com/eve-programs
 
+
+# Blogs & Socials
+## Dev Blog
+- Tumblr Blog: https://eveprograms.tumblr.com
+
+### Programming: Socials:
+- Instagram: https://instagram.com/eveprograms
+- Youtube: https://youtube.com/@eveprograms
+- Bluesky: https://bsky.app/profile/eveprograms.bsky.social
+- Twitch: https://twitch.tv/eveprograms
+
 # Personal Projects:
 
 <table>
@@ -41,17 +52,6 @@ I go to Full Sail University in Web Development.
   <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress! </a>
 </th>
 </table>
-
-
-# Blogs & Socials
-## Dev Blog
-- Tumblr Blog: https://eveprograms.tumblr.com
-
-### Programming: Socials:
-- Instagram: https://instagram.com/eveprograms
-- Youtube: https://youtube.com/@eveprograms
-- Bluesky: https://bsky.app/profile/eveprograms.bsky.social
-- Twitch: https://twitch.tv/eveprograms
 
 ## Personal Blog
 - https://evepanzarino.tumblr.com
