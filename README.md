@@ -33,7 +33,7 @@ I go to Full Sail University in Web Development.
 - **MySQL2 3.6.0** - MySQL database driver
 - **MySQL 8.0** - Relational database
 
-**PixelGrid Github:** <a href="https://github.com/eveprograms/PixelGrid">Live Project</a>
+**PixelGrid Github:** <a href="https://github.com/eveprograms/PixelGrid"> **Live Project** </a>
     </td>
   </tr>
  <th colspan="2">
