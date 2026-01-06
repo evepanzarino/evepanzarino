@@ -34,7 +34,9 @@ I go to Full Sail University in Web Development.
 - **MySQL 8.0** - Relational database
 
 <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress!</a>
+
 </br>
+
 <a href="https://github.com/eveprograms/PixelGrid">PixelGrid Github</a>
     </td>
   </tr>
