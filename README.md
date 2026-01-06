@@ -21,7 +21,7 @@ I go to Full Sail University in Web Development.
    <h1>PixelGrid</h1>
 </td>
     <td>
-       <h2>November, 2025 to Present</h2>
+       <h1>November, 2025 to Present</h1>
     </td>
   </tr>
   <tr>
