@@ -17,7 +17,7 @@ I go to Full Sail University in Web Development.
 
 # Personal Accounts
 ## Main:
-### Eve Panzarino
+### Eve Panzarino - Web Design & Development
 - Facebook: https://facebook.com/eveldapanzarino
 - Instagram: https://instagram.com/eveldapanzarino
 - Youtube: https://youtube.com/@evepanzarino
