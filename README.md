@@ -5,7 +5,7 @@ I go to Full Sail University in Web Development.
 # Personal Projects:
 ## PixelGrid 
 ### November, 2025 - Present
-![PixelGrid][(https://imgur.com/a/fohVqKJ)
+![PixelGrid](https://imgur.com/a/fohVqKJ)
 
 # Blogs & Socials
 ## Dev Blog
