@@ -18,7 +18,7 @@ Tumblr Blog: https://eveprograms.tumblr.com
 - Twitch: https://twitch.tv/eveprograms
 
 ## Personal Blog
-https://evepanzarino.tumblr.com
+Tumblr Blog: https://evepanzarino.tumblr.com
 
 ### Main Socials  
 #### Eve Panzarino - Web Design & Development:
