@@ -10,10 +10,10 @@ I go to Full Sail University in Web Development.
 <table>
 <tr>
 <td>
-   <h1 style="padding:0; margin: 0; border-bottom:none;">PixelGrid</h1>
+   <h1 style="all:  unset; font-size: 2em; font-weight: bold; display: block;">PixelGrid</h1>
 </td>
     <td>
-       <h1 style="padding:0; margin:0; border-bottom:none;">November, 2025 to Present</h1>
+       <h1 style="all: unset; font-size: 2em; font-weight: bold; display: block;">November, 2025 to Present</h1>
     </td>
   </tr>
    <tr>
