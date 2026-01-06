@@ -32,6 +32,7 @@ I go to Full Sail University in Web Development.
 - **Node.js** with **Express.js 4.18.2** - REST API server
 - **MySQL2 3.6.0** - MySQL database driver
 - **MySQL 8.0** - Relational database
+
 <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress!</a>
 <a href="https://github.com/eveprograms/PixelGrid">PixelGrid Github</a>
     </td>
@@ -39,8 +40,6 @@ I go to Full Sail University in Web Development.
  
 </table>
 
-
-</br>
 
 # Blogs & Socials
 ## Dev Blog
