@@ -10,10 +10,10 @@ I go to Full Sail University in Web Development.
 <table>
   <tr>
 <td>
-   <h1>PixelGrid</h1>
+   <h2>PixelGrid</h2>
 </td>
     <td>
-       <h1>November, 2025 to Present</h1>
+       <h2>November, 2025 to Present</h2>
     </td>
   </tr>
    <tr>
