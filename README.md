@@ -2,6 +2,12 @@
 I'm Eve Panzarino.</br>
 I go to Full Sail University in Web Development.
 </br>
+# Personal Projects:
+## PixelGrid 
+### November, 2025 - Present
+![PixelGrid][(https://imgur.com/a/fohVqKJ)
+
+# Blogs & Socials
 ## Dev Blog
 - Tumblr Blog: https://eveprograms.tumblr.com
 
