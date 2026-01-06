@@ -3,15 +3,11 @@ I'm Eve Panzarino.</br>
 I go to Full Sail University in Web Development.
 </br>
 
-
-# Blogs & Socials
-
-## Dev Blog
-- Tumblr Blog: https://eveprograms.tumblr.com
-
-### Live Projects
+## Live Projects
 - Github: https://github.com/eve-programs
-  
+
+
+## Programing Accounts
 ### Programming: Socials:
 - Instagram: https://instagram.com/eveprograms
 - Youtube: https://youtube.com/@eveprograms
@@ -27,7 +23,11 @@ I go to Full Sail University in Web Development.
 </div>
 </br>
 
-# Personal Blog
+# Blogs & Socials
+## Dev Blog
+- Tumblr Blog: https://eveprograms.tumblr.com
+
+## Personal Blog
 - https://evepanzarino.tumblr.com
 
 ## Personal Accounts:
