@@ -3,7 +3,7 @@ I’m @evepanzarino. I go to Full Sail University in Web Development.
 # Dev Blog
 * * *
 - Tumblr Blog: https://eveprograms.tumblr.com
--  Github: https://github.com/eveprograms
+- Github: https://github.com/eveprograms
 
 ## Programming: Socials:
 - Instagram: https://instagram.com/eveprograms
@@ -21,13 +21,13 @@ I’m @evepanzarino. I go to Full Sail University in Web Development.
 - Twitch: https://twitch.tv/evepanzarino
 
 ## Ovarian Cancer Awareness 
-+ Keeping it Real by Making it Teal! (KRMT)
+### Keeping it Real by Making it Teal! (KRMT)
 - Memorial: https://instagram.com/keepingitrealbymakingitteal
 - Tumblr Blog: https://keepingitrealbymakingitteal.tumblr.com
 - Personal (KRMT): https://instagram.com/evekeepsitrealbymakingitteal
 
 ## Philosophy Socials:
-+ Thoughtful Writing
+### Thoughtful Writing
 - Instagram: https://instagram.com/evephilosophy
 - Youtube: https://youtube.com/@evephilosophy
 - Bluesky: https://bsky.app/profile/evephilosophy.bsky.social
