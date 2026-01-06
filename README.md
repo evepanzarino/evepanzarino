@@ -11,7 +11,7 @@ Github: https://github.com/eve-programs
 ## Dev Blog
 Tumblr Blog: https://eveprograms.tumblr.com
 
-### Programming: Socials:
+### Programming Socials
 - Instagram: https://instagram.com/eveprograms
 - Youtube: https://youtube.com/@eveprograms
 - Bluesky: https://bsky.app/profile/eveprograms.bsky.social
@@ -21,7 +21,7 @@ Tumblr Blog: https://eveprograms.tumblr.com
 Tumblr Blog: https://evepanzarino.tumblr.com
 
 ### Main Socials  
-#### Eve Panzarino - Web Design & Development:
+#### Eve Panzarino - Web Design & Development
 - Linkedin: https://www.linkedin.com/in/evepanzarino
 - Facebook: https://facebook.com/eveldapanzarino
 - Instagram: https://instagram.com/eveldapanzarino
