@@ -1,4 +1,7 @@
-I’m @evepanzarino. I go to Full Sail University in Web Development.
+#About
+* * *
+I'm Eve Panzarino
+I go to Full Sail University in Web Development.
 
 # Dev Blog
 * * *
@@ -14,6 +17,7 @@ I’m @evepanzarino. I go to Full Sail University in Web Development.
 # Personal Accounts
 - - -
 ## Main Socials:
+### Eve Panzarino
 - Facebook: https://facebook.com/eveldapanzarino
 - Instagram: https://instagram.com/eveldapanzarino
 - Youtube: https://youtube.com/@evepanzarino
