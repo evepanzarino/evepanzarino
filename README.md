@@ -36,7 +36,9 @@ I go to Full Sail University in Web Development.
 **PixelGrid Github:** <a href="https://github.com/eveprograms/PixelGrid">Live Project</a>
     </td>
   </tr>
- 
+ <th colspan="2">
+  <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress! </a>
+</th>
 </table>
 
 
