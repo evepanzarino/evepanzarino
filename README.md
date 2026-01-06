@@ -1,6 +1,6 @@
 # About
-- I'm Eve Panzarino
-- I go to Full Sail University in Web Development.
+I'm Eve Panzarino
+I go to Full Sail University in Web Development.
 
 ## Dev Blog
 - Tumblr Blog: https://eveprograms.tumblr.com
