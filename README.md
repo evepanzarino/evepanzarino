@@ -5,15 +5,16 @@ I go to Full Sail University in Web Development.
 # Personal Projects:
 ## PixelGrid 
 ### November, 2025 - Present
-<p align="left" width="50%">
+<div style="grid-template-collumns: 50% 50%;">
+<div align="left" width="50%">
 <h1>
   PixelGrid
 </h1>
-</p>
-<p align="right">
+</div>
+<div align="right">
   <img src="https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/610834120_122266998884026982_1350344752873223919_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g9MMKYEnP0oQ7kNvwFlIfd3&_nc_oc=Adm5z0AS7xaiPG39fwOAfrTqXTsfFmLhAwl98Rb7DOBCMm9dixFcuE85A_JDB6KinLw&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=vhTNjU3snq08EJCYmifICA&oh=00_AfpUg5Ba-RrnjLaVRkcZA9jqc2xpAiWqIz9XUASNrreVaA&oe=69633A6D" alt="PixelGrid" width="50%">
-</p>
-
+</div>
+</div>
 # Blogs & Socials
 ## Dev Blog
 - Tumblr Blog: https://eveprograms.tumblr.com
