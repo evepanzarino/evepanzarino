@@ -39,14 +39,14 @@ I go to Full Sail University in Web Development.
 - Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
 - Twitch: https://twitch.tv/evepanzarino
   
-### Ovarian Cancer Awareness:
-#### Keeping it Real by Making it Teal! (KRMT)
+#### Ovarian Cancer Awareness:
+##### Keeping it Real by Making it Teal! (KRMT)
 - Memorial: https://instagram.com/keepingitrealbymakingitteal
 - Tumblr Blog: https://keepingitrealbymakingitteal.tumblr.com
 - Personal (KRMT): https://instagram.com/evekeepsitrealbymakingitteal
 
-### Philosophy Socials:
-#### Thoughtful Writing
+#### Philosophy Socials:
+##### Thoughtful Writing
 - Instagram: https://instagram.com/evephilosophy
 - Youtube: https://youtube.com/@evephilosophy
 - Bluesky: https://bsky.app/profile/evephilosophy.bsky.social
