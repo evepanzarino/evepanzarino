@@ -25,8 +25,7 @@ I go to Full Sail University in Web Development.
       
 **Frontend (Client):**
 - **React 18.2.0** with the Latest Stable Version
-- Deployed to **GitHub Pages** for **Front-end Hosting:**
-<a href="evepanzarino.github.io/pixelgrid">PixelGrid App</a>
+- Deployed to **GitHub Pages** for **Front-end Hosting
 
 **The PixelGrid App does not use a database on Github Pages. **
 **Backend (Server) & Database:**
@@ -34,7 +33,8 @@ I go to Full Sail University in Web Development.
 - **MySQL2 3.6.0** - MySQL database driver
 - **MySQL 8.0** - Relational database
   
-<a href="https://github.com/eveprograms/PixelGrid">Check out My Progress!</a>
+<a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress!</a>
+<a href="https://github.com/eveprograms/PixelGrid">PixelGrid Github</a>
     </td>
   </tr>
  
