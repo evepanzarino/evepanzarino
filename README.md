@@ -7,6 +7,15 @@ I go to Full Sail University in Web Development.
 - Github: https://github.com/eve-programs
 
 # Personal Projects:
+
+<div style="overflow-x: auto;">
+
+| Column 1 | Column 2 |
+|----------|----------|
+| <h1 style="padding:0; margin: 0; border-bottom:none;">PixelGrid</h1>     |  <h1 style="padding:0; margin:0; border-bottom:none;">November, 2025 to Present</h1> |
+
+</div>
+
 <table>
   <tr>
 <td>
