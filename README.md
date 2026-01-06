@@ -6,7 +6,7 @@ I go to Full Sail University in Web Development.
 ## PixelGrid 
 ### November, 2025 - Present
 <div style="display: grid; grid-template-columns: 1fr 1fr;">
-<div align="left" width="50%">
+<div align="left">
 <h1>
   PixelGrid
 </h1>
