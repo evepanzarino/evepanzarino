@@ -14,8 +14,6 @@ I go to Full Sail University in Web Development.
 - Bluesky: https://bsky.app/profile/eveprograms.bsky.social
 - Twitch: https://twitch.tv/eveprograms
 
-</br>
-
 # Personal Projects:
 ## PixelGrid 
 ### November, 2025 - Present
