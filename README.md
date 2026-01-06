@@ -28,13 +28,10 @@ I go to Full Sail University in Web Development.
 - Deployed to **GitHub Pages** for **Front-end Hosting:**
 <a href="evepanzarino.github.io/pixelgrid">PixelGrid App</a>
 
-**The PixelGrid App does not use the database function. It's purpose is for future back-end integrations.**
-
-**Backend (Server):**
+**The PixelGrid App does not use a database on Github Pages. **
+**Backend (Server) & Database:**
 - **Node.js** with **Express.js 4.18.2** - REST API server
 - **MySQL2 3.6.0** - MySQL database driver
-
-**Database:**
 - **MySQL 8.0** - Relational database
 - This is a **MERN-style stack** (MySQL instead of MongoDB) using:
 
