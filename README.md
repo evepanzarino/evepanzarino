@@ -18,10 +18,11 @@ I go to Full Sail University in Web Development.
 ## PixelGrid 
 ### November, 2025 - Present
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
-<div> </div>
+
 <div align="left">
   <img src="https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/610834120_122266998884026982_1350344752873223919_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g9MMKYEnP0oQ7kNvwFlIfd3&_nc_oc=Adm5z0AS7xaiPG39fwOAfrTqXTsfFmLhAwl98Rb7DOBCMm9dixFcuE85A_JDB6KinLw&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=vhTNjU3snq08EJCYmifICA&oh=00_AfpUg5Ba-RrnjLaVRkcZA9jqc2xpAiWqIz9XUASNrreVaA&oe=69633A6D" alt="PixelGrid" width="50%">
 </div>
+<div><p>Test</p></div>
 </div>
 </br>
 
