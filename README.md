@@ -34,7 +34,7 @@ I go to Full Sail University in Web Development.
 **Frontend (Client):**
 - **React 18.2.0** with the Latest Stable Version
 - Deployed to **GitHub Pages** for **Front-end Hosting:**
-- - <a href="evepanzarino.github.io/pixelgrid">PixelGrid</a>
+- <a href="evepanzarino.github.io/pixelgrid">PixelGrid</a>
 
 **The PixelGrid App does not use the database function. It's purpose is for future back-end integrations.**
 **Backend (Server):**
