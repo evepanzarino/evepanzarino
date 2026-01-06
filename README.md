@@ -27,7 +27,7 @@
 - Youtube: https://youtube.com/@evepanzarino
 - Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
 - Twitch: https://twitch.tv/evepanzarino
-* * *
+  
 ### Ovarian Cancer Awareness:
 #### Keeping it Real by Making it Teal! (KRMT)
 - Memorial: https://instagram.com/keepingitrealbymakingitteal
