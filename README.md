@@ -7,11 +7,14 @@ I go to Full Sail University in Web Development.
 - Github: https://github.com/eve-programs
 
 # Personal Projects:
-<div>
-<h1 style="display: inline-block; width: 49%;">PixelGrid</h1><h1 style="display: inline-block; width: 49%;">November, 2025 to Present</h1>
-</div>
 <table>
-<th colspan="2"><a href="https://github.com/eveprograms/PixelGrid">Check out My Progress!</a></th> <!-- This cell spans 2 columns -->
+  <tr>
+<td>
+   <h1 style="padding:0; margin: 0; border-bottom:none;">PixelGrid</h1>
+</td>
+    <td>
+       <h1 style="padding:0; margin:0; border-bottom:none;">November, 2025 to Present</h1>
+    </td>
   </tr>
   <tr>
     <td width="50%" align="right" valign="top">
@@ -34,6 +37,9 @@ I go to Full Sail University in Web Development.
 
 
     </td>
+    <tr>
+    <th colspan="2"><a href="https://github.com/eveprograms/PixelGrid">Check out My Progress!</a></th> <!-- This cell spans 2 columns -->
+  </tr>
   </tr>
  
 </table>
