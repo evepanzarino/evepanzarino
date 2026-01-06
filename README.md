@@ -13,7 +13,6 @@ I go to Full Sail University in Web Development.
 - Twitch: https://twitch.tv/eveprograms
 
 # Personal Accounts
-- - -
 ## Main Socials:
 ### Eve Panzarino
 - Facebook: https://facebook.com/eveldapanzarino
