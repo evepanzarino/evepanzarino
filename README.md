@@ -25,12 +25,14 @@
 - **Interests:** Programming, Games, Art, Music, & Philosophy
 
 
-## Live Projects
+# Live Projects
 Github: https://github.com/eve-programs
 
 
 # Personal Projects:
-
+* PixelGrid
+* Keeping it Real by Making it Teal
+* Writing
 <table>
   <tr>
 <td>
