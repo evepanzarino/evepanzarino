@@ -1,7 +1,7 @@
 # About
 ## Eve Panzarino.
-
-**School:** Full Sail University **(Currently)** 
+**(Currently in school)**
+**School:** Full Sail University  
 </br>
 **Degree:** Web Development, BS
 
