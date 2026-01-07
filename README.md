@@ -106,8 +106,7 @@ Tumblr Blog:
 <a href="https://instagram.com/evephilosophy">@evephilosophy</a>
 - Youtube:
 <a href="https://youtube.com/@evephilosophy">@evephilosophy</a>
-- Bluesky:
-<a href="https://bsky.app/profile/evephilosophy.bsky.social">
+- Bluesky: <a href="https://bsky.app/profile/evephilosophy.bsky.social">
 @evephilosophy.bsky.social
 </a>
 
