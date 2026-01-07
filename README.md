@@ -11,16 +11,19 @@ Github: https://github.com/eve-programs
 ## Dev Blog
 Tumblr Blog: https://eveprograms.tumblr.com
 
+## Ovarian Cancer Blog
+Tumblr Blog: https://keepingitrealbymakingitteal.tumblr.com
+
+## Personal Blog
+Tumblr Blog: https://evepanzarino.tumblr.com
+
 ### Programming Socials
 - Instagram: https://instagram.com/eveprograms
 - Youtube: https://youtube.com/@eveprograms
 - Bluesky: https://bsky.app/profile/eveprograms.bsky.social
 - Twitch: https://twitch.tv/eveprograms
 
-## Personal Blog
-Tumblr Blog: https://evepanzarino.tumblr.com
-
-### Main Socials  
+### Main Socials:
 #### Eve Panzarino - Web Design & Development
 - Linkedin: https://www.linkedin.com/in/evepanzarino
 - Facebook: https://facebook.com/eveldapanzarino
@@ -28,11 +31,10 @@ Tumblr Blog: https://evepanzarino.tumblr.com
 - Youtube: https://youtube.com/@evepanzarino
 - Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
 - Twitch: https://twitch.tv/evepanzarino
-  
-### Ovarian Cancer Awareness:
+
+### Ovarian Cancer Socials:
 #### Keeping it Real by Making it Teal! (KRMT)
 - Memorial: https://instagram.com/keepingitrealbymakingitteal
-- Tumblr Blog: https://keepingitrealbymakingitteal.tumblr.com
 - Personal (KRMT): https://instagram.com/evekeepsitrealbymakingitteal
 
 ### Philosophy Socials:
