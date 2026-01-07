@@ -63,7 +63,7 @@ Github: https://github.com/eve-programs
     </td>
   </tr>
  <th colspan="2">
-  <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress on the Live App! </a>
+  <a href="https://evepanzarino.github.io/pixelgrid">Check out the Live App! </a>
 </th>
 </table>
 
