@@ -25,11 +25,8 @@
 - **Interests:** Programming, Games, Art, Music, & Philosophy
 
 
-# Live Projects
-Github: <a href="https://github.com/eve-programs">@eveprograms</a>
-
-
-# Projects:
+# Projects
+* Github: https://github.com/eve-programs
 * PixelGrid
 * Keeping it Real by Making it Teal
 * Writing
@@ -63,7 +60,7 @@ Github: <a href="https://github.com/eve-programs">@eveprograms</a>
     </td>
   </tr>
  <th colspan="2">
-https://evepanzarino.github.io/pixelgrid
+   <a href="https://evepanzarino.github.io/pixelgrid">Check out the Live App!</a>
 </th>
 </table>
 
