@@ -71,35 +71,44 @@ Github: https://github.com/eve-programs
 Tumblr Blog: https://eveprograms.tumblr.com
 
 ## Programming Socials
-- Instagram: https://instagram.com/eveprograms
-- Youtube: https://youtube.com/@eveprograms
-- Bluesky: https://bsky.app/profile/eveprograms.bsky.social
-- Twitch: https://twitch.tv/eveprograms
-
+- Instagram:
+  <a href="https://instagram.com/eveprograms">@eveprograms
+  </a>
+- Youtube: <a href="https://youtube.com/@eveprograms">@eveprograms</a>
+- Bluesky:
+- <a href="https://bsky.app/profile/eveprograms.bsky.social">@eveprograms.bsky.social</a>
+- Twitch: <a href="https://twitch.tv/eveprograms">@eveprograms</a>
 ## Personal Blog
-Tumblr Blog: https://evepanzarino.tumblr.com
+Tumblr Blog: <a href="https://evepanzarino.tumblr.com">Eve Panzarino</a>
 
 ### Main Socials:
-- Linkedin: https://www.linkedin.com/in/evepanzarino
-- Facebook: https://facebook.com/eveldapanzarino
-- Instagram: https://instagram.com/eveldapanzarino
-- Youtube: https://youtube.com/@evepanzarino
-- Bluesky: https://bsky.app/profile/evepanzarino.bsky.social
-- Twitch: https://twitch.tv/evepanzarino
+- Linkedin: <a href="https://www.linkedin.com/in/evepanzarino">@evepanzarino</a>
+- Facebook: <a href="https://facebook.com/eveldapanzarino">@eveldapanzarino</a>
+- Instagram: <a href="https://instagram.com/eveldapanzarino">@eveldapanzarino</a>
+- Youtube: <a href="https://youtube.com/@evepanzarino">@evepanzarino</a>
+- Bluesky: <a href="https://bsky.app/profile/evepanzarino.bsky.social">@evepanzarino.bsky.social</a>
+- Twitch: <a href="https://twitch.tv/evepanzarino">@evepanzarino</a>
 
 ## Ovarian Cancer Blog
-Tumblr Blog: https://keepingitrealbymakingitteal.tumblr.com
+Tumblr Blog: 
+<a href="https://keepingitrealbymakingitteal.tumblr.com">Keeping it Real by Making it Teal</a>
 
 ### Ovarian Cancer Socials:
-#### Keeping it Real by Making it Teal! (KRMT)
-- Memorial: https://instagram.com/keepingitrealbymakingitteal
-- Personal (KRMT): https://instagram.com/evekeepsitrealbymakingitteal
+#### Keeping it Real by Making it Teal!
+- Memorial: <a href="https://instagram.com/keepingitrealbymakingitteal">@KeepingitRealbyMakingitTeal</a>
+- Personal:
+<a href="https://instagram.com/evekeepsitrealbymakingitteal">@EveKeepsitRealbyMakingitTeal</a>
 
 ### Philosophy Socials:
 #### Writing
-- Instagram: https://instagram.com/evephilosophy
-- Youtube: https://youtube.com/@evephilosophy
-- Bluesky: https://bsky.app/profile/evephilosophy.bsky.social
+- Instagram:
+<a href="https://instagram.com/evephilosophy">@evephilosophy</a>
+- Youtube:
+<a href="https://youtube.com/@evephilosophy">@evephilosophy</a>
+- Bluesky:
+- <a href="https://bsky.app/profile/evephilosophy.bsky.social">
+@evephilosophy.bsky.social
+</a>
 
 
 
