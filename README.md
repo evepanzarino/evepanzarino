@@ -7,6 +7,8 @@
   <td width="auto">
     <p><em>(she/her)</em></p>
   </td>
+</tr>
+  <tr>
    <th colspan="2">
      <td>**Web Design & Development**</td>
    </th>
