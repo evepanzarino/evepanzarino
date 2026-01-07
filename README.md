@@ -36,10 +36,10 @@ Github: https://github.com/eve-programs
 <table>
   <tr>
 <td>
-   <h1 style="padding:0; margin: 0; border-bottom:none;">PixelGrid</h1>
+   <h2 style="padding:0; margin: 0; border-bottom:none;">PixelGrid</h2>
 </td>
     <td>
-       <h1 style="padding:0; margin:0; border-bottom:none;">November, 2025 to Present</h1>
+       <h2 style="padding:0; margin:0; border-bottom:none;">November, 2025 to Present</h2>
     </td>
   </tr>
   <tr>
