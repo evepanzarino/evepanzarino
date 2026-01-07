@@ -59,7 +59,7 @@ Github: https://github.com/eve-programs
 - **MySQL2 3.6.0** - MySQL database driver
 - **MySQL 8.0** - Relational database
 
-**PixelGrid Github:** <a href="https://github.com/eveprograms/PixelGrid"> **@eveprograms** </a>
+**PixelGrid Github:** <a href="https://github.com/eveprograms/PixelGrid"> **eveprograms/pixelgrid** </a>
     </td>
   </tr>
  <th colspan="2">
