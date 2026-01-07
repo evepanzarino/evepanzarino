@@ -1,6 +1,17 @@
 # About
-## Eve Panzarino 
-(she/her)</br>
+<table>
+<tr>
+<td>
+  Eve Panzarino
+</td>
+  <td>
+    (she/her)
+  </td>
+</tr>
+  
+</table>
+ 
+
 **Currently in school**
 
 - **School:** Full Sail University  
