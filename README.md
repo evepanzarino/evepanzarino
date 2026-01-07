@@ -7,8 +7,6 @@ I go to Full Sail University in Web Development.
 Github: https://github.com/eve-programs
 
 
-## Dev Blog
-Tumblr Blog: https://eveprograms.tumblr.com
 # Personal Projects:
 
 <table>
@@ -45,6 +43,8 @@ Tumblr Blog: https://eveprograms.tumblr.com
 </th>
 </table>
 
+## Dev Blog
+Tumblr Blog: https://eveprograms.tumblr.com
 
 ## Programming Socials
 - Instagram: https://instagram.com/eveprograms
