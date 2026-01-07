@@ -2,10 +2,10 @@
 <table>
 <tr>
 <td>
-  Eve Panzarino
+  ## Eve Panzarino
 </td>
   <td>
-    (she/her)
+    ###(she/her)
   </td>
 </tr>
   
