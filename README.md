@@ -2,7 +2,7 @@
 <table>
 <tr width="100%">
 <td width="auto">
-<p><em>Eve Panzarino</em></p>
+<p><strong>Eve Panzarino</strong></p>
 </td>
   <td width="auto">
     <p><em>(she/her)</em></p>
@@ -10,7 +10,7 @@
 </tr>
   <tr>
    <th colspan="2">
-     **Web Design & Development**
+     <b>Web Design & Development</b>
    </th>
 </tr>
   
