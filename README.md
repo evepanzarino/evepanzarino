@@ -1,6 +1,9 @@
 # About
-I'm Eve Panzarino.</br>
-I go to Full Sail University in Web Development.
+## Eve Panzarino.
+**School:** Full Sail University **(Currently)** 
+**Degree:** Web Development, BS
+
+
 </br>
 
 ## Live Projects
