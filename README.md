@@ -14,7 +14,7 @@
 
 **(Currently in school)**
 
-- **School:** Full Sail University  
+- **School:** Full Sail University 
 - **Degree:** Web Development, BS
 - **Birthday:** 9/23/1998 — Libra
 - **Interests:** Programming, Games, Art, Music, & Philosophy
@@ -59,7 +59,9 @@ Github: https://github.com/eve-programs
   <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress on the Live App! </a>
 </th>
 </table>
+
 # Eve Panzarino - Web Design & Development
+
 ## Dev Blog
 Tumblr Blog: https://eveprograms.tumblr.com
 
