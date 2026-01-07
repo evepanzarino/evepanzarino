@@ -26,7 +26,7 @@
 
 
 # Projects
-* Github: https://github.com/eve-programs
+* https://github.com/eve-programs
 * PixelGrid
 * Keeping it Real by Making it Teal
 * Writing
