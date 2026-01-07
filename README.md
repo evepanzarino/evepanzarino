@@ -2,10 +2,10 @@
 <table>
 <tr>
 <td>
-<h3>Eve Panzarino</h3>
+<b>Eve Panzarino</b>
 </td>
   <td>
-    <h3>(she/her)</h3>
+    <p>(she/her)</p>
   </td>
 </tr>
   
