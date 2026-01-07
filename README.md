@@ -96,7 +96,7 @@ Tumblr Blog: https://keepingitrealbymakingitteal.tumblr.com
 - Personal (KRMT): https://instagram.com/evekeepsitrealbymakingitteal
 
 ### Philosophy Socials:
-#### Thoughtful Writing
+#### Writing
 - Instagram: https://instagram.com/evephilosophy
 - Youtube: https://youtube.com/@evephilosophy
 - Bluesky: https://bsky.app/profile/evephilosophy.bsky.social
