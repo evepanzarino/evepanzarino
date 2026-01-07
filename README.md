@@ -1,13 +1,10 @@
 # About
 ## Eve Panzarino.
 **(Currently in school)**
-</br>
-**School:** Full Sail University  
-</br>
-**Degree:** Web Development, BS
 
+- **School:** Full Sail University  
+- **Degree:** Web Development, BS
 
-</br>
 
 ## Live Projects
 Github: https://github.com/eve-programs
