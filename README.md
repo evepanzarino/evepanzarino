@@ -59,7 +59,7 @@ Github: https://github.com/eve-programs
   <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress on the Live App! </a>
 </th>
 </table>
-
+# Eve Panzarino - Web Design & Development
 ## Dev Blog
 Tumblr Blog: https://eveprograms.tumblr.com
 
@@ -73,7 +73,6 @@ Tumblr Blog: https://eveprograms.tumblr.com
 Tumblr Blog: https://evepanzarino.tumblr.com
 
 ### Main Socials:
-#### Eve Panzarino - Web Design & Development
 - Linkedin: https://www.linkedin.com/in/evepanzarino
 - Facebook: https://facebook.com/eveldapanzarino
 - Instagram: https://instagram.com/eveldapanzarino
