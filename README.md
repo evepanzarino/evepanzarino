@@ -29,7 +29,7 @@
 Github: https://github.com/eve-programs
 
 
-# Personal Projects:
+# Projects:
 * PixelGrid
 * Keeping it Real by Making it Teal
 * Writing
