@@ -1,9 +1,11 @@
 # About
-## Eve Panzarino.
-**(Currently in school)**
+## Eve Panzarino — (she/her)
+**Currently in school**
 
 - **School:** Full Sail University  
 - **Degree:** Web Development, BS
+- **Birthday:** 9/23/1998 — Libra
+- **Interests:** Programming, Games, Art, Music, & Philosophy
 
 
 ## Live Projects
