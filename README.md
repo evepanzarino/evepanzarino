@@ -68,7 +68,8 @@ Github: https://github.com/eve-programs
 </table>
 
 ## Dev Blog
-Tumblr Blog: https://eveprograms.tumblr.com
+Tumblr Blog: 
+<a href="https://eveprograms.tumblr.com">Eve Programs</a>
 
 ## Programming Socials
 - Instagram:
