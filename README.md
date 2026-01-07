@@ -7,14 +7,16 @@
   <td width="auto">
     <p><em>(she/her)</em></p>
   </td>
+   <th colspan="2">
+     <td>**Web Design & Development**</td>
+   </th>
 </tr>
   
 </table>
  
-**Web Design & Development**
+
 
 **(Currently in school)**
-
 - **School:** Full Sail University 
 - **Degree:** Web Development, BS
 - **Birthday:** 9/23/1998 — Libra
