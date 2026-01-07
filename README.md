@@ -10,7 +10,7 @@
 </tr>
   <tr>
    <th colspan="2">
-     <td>**Web Design & Development**</td>
+     **Web Design & Development**
    </th>
 </tr>
   
