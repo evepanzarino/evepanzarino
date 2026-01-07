@@ -1,10 +1,10 @@
 # About
 <table>
 <tr width="100%">
-<td width="50%">
+<td width="100%">
 <p><b>Eve Panzarino</b></p>
 </td>
-  <td width:50%>
+  <td width:100%>
     <p><b>(she/her)</b></p>
   </td>
 </tr>
