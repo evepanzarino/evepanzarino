@@ -60,7 +60,8 @@ Github: https://github.com/eve-programs
 </th>
 </table>
 
-# Eve Panzarino - Web Design & Development
+# Eve Panzarino
+**Web Design & Development**
 
 ## Dev Blog
 Tumblr Blog: https://eveprograms.tumblr.com
