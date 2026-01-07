@@ -2,15 +2,16 @@
 <table>
 <tr width="100%">
 <td width="auto">
-<p><b>Eve Panzarino</b></p>
+<p><h2>Eve Panzarino</h2></p>
 </td>
   <td width="auto">
-    <p><b>(she/her)</b></p>
+    <p><h2>(she/her)</h2></p>
   </td>
 </tr>
   
 </table>
  
+**Web Design & Development**
 
 **(Currently in school)**
 
@@ -59,9 +60,6 @@ Github: https://github.com/eve-programs
   <a href="https://evepanzarino.github.io/pixelgrid">Check out My Progress on the Live App! </a>
 </th>
 </table>
-
-# Eve Panzarino
-**Web Design & Development**
 
 ## Dev Blog
 Tumblr Blog: https://eveprograms.tumblr.com
