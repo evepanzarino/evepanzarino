@@ -12,7 +12,7 @@
 </table>
  
 
-**'<Currently in school>'**
+**[Currently in school]**
 
 - **School:** Full Sail University  
 - **Degree:** Web Development, BS
