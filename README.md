@@ -45,10 +45,10 @@ https://evepanzarino.com/pixelgif<br>
 Pixel Art Gif Editor<br>
 
 ## Future Plans:<br>
-Pixel Art Game Engine<br>
-Transgender Timeline<br>
-Keeping it Real By Making it Teal - Ovarian Cancer Awareness<br>
-Transgender Resources
+* Pixel Art Game Engine<br>
+* Transgender Timeline<br>
+* Keeping it Real By Making it Teal - Ovarian Cancer Awareness<br>
+* Transgender Resources
 
 
 
