@@ -30,10 +30,10 @@ Github: <a href="https://github.com/eve-programs">@eveprograms</a>
 
 
 # Projects:
-* belonging.lgbt
-https://belonging.lgbt
-Queer Social Media Platform
-Queer Marketplace
+* belonging.lgbt<br>
+https://belonging.lgbt<br>
+Queer Social Media Platform<br>
+Queer Marketplace<br>
 
 
 * PixelGrid 
