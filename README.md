@@ -36,18 +36,18 @@ Queer Social Media Platform<br>
 Queer Marketplace<br>
 
 
-* PixelGrid 
-https://evepanzarino.com/pixelgrid
-Pixel Art Editor
+* PixelGrid <br>
+https://evepanzarino.com/pixelgrid<br>
+Pixel Art Editor<br>
 
-* PixelGif
-https://evepanzarino.com/pixelgif
-Pixel Art Gif Editor
+* PixelGif<br>
+https://evepanzarino.com/pixelgif<br>
+Pixel Art Gif Editor<br>
 
-* Future Plans:
-Pixel Art Game Engine
-Transgender Timeline
-Keeping it Real By Making it Teal - Ovarian Cancer Awareness
+* Future Plans:<br>
+Pixel Art Game Engine<br>
+Transgender Timeline<br>
+Keeping it Real By Making it Teal - Ovarian Cancer Awareness<br>
 Transgender Resources
 
 
