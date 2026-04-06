@@ -30,9 +30,31 @@ Github: <a href="https://github.com/eve-programs">@eveprograms</a>
 
 
 # Projects:
-* PixelGrid
-* Keeping it Real by Making it Teal
-* Writing
+* belonging.lgbt
+https://belonging.lgbt
+Queer Social Media Platform
+Queer Marketplace
+
+
+* PixelGrid 
+https://evepanzarino.com/pixelgrid
+Pixel Art Editor
+
+* PixelGif
+https://evepanzarino.com/pixelgif
+Pixel Art Gif Editor
+
+* Future Plans:
+Pixel Art Game Engine
+Transgender Timeline
+Keeping it Real By Making it Teal - Ovarian Cancer Awareness
+Transgender Resources
+
+
+
+
+
+
 <table>
   <tr>
 <td>
