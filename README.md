@@ -25,9 +25,6 @@
 - **Interests:** Programming, Games, Art, Music, & Philosophy
 
 
-# Live Projects
-Github: <a href="https://github.com/eve-programs">@eveprograms</a>
-
 
 # Projects:
 * belonging.lgbt<br>
@@ -44,8 +41,11 @@ Pixel Art Editor<br>
 https://evepanzarino.com/pixelgif<br>
 Pixel Art Gif Editor<br>
 
+* PixelGame
+  https://evepanzarino.com/pixelgame<br>
+  Voxel Art Game Engine
+
 ## Future Plans:<br>
-* Pixel Art Game Engine<br>
 * Transgender Timeline<br>
 * Keeping it Real By Making it Teal - Ovarian Cancer Awareness<br>
 * Transgender Resources
