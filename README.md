@@ -41,7 +41,7 @@ Pixel Art Editor<br>
 https://evepanzarino.com/pixelgif<br>
 Pixel Art Gif Editor<br>
 
-* PixelGame
+* PixelGame<br>
   https://evepanzarino.com/pixelgame<br>
   Voxel Art Game Engine
 
